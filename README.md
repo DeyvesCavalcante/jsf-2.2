@@ -1,2 +1,2 @@
-# jsf-2.2
-Projeto base do Java Server Faces 2.2
+# jsf-22
+Projeto base de uma aplicação WEB utilizando Java Server Faces 2.2
